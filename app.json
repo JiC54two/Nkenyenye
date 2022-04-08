@@ -16,7 +16,7 @@
   ],
   "repository": "https://github.com/JiC54/PublicLeech",
   "success_url": "https://telegram.dog/ThankTelegram",
-  "website": "https://github.com/SpEcHiDe/PublicLeech",
+  "website": "https://github.com/JiC54/PublicLeech",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
