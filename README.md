@@ -3,7 +3,7 @@
 A Telegram Torrent, youtube-dl Leecher, and rClone / Telegram Uploader!
 
 ## installing
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JiC54/PublicLeech)
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
